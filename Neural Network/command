@@ -1,0 +1,3 @@
+python neuralnet.py handout/largeTrain.csv handout/largeValidation.csv handout/out/train_out.labels handout/out/val_out.labels handout/out/metrics_out 100 50 1 0.1
+
+python neuralnet.py handout/largeTrain.csv handout/largeValidation.csv handout/out/train_out.labels handout/out/val_out.labels handout/out/metrics_out 100 50 1 0.001
